@@ -1,13 +1,13 @@
 {
-  "name": "vue-json-view",
+  "name": "vue-view-json",
   "version": "0.1.0",
   "description": "A Vue component for rendering JSON data as a tree structure.",
   "author": "guochengfeng <1065102410@qq.com>",
   "repository": {
     "type": "git",
-    "url": "git@github.com:guochengfeng/vue-json-view.git"
+    "url": "git@github.com:guochengfeng/vue-view-json.git"
   },
-  "homepage": "https://guochengfeng.github.io/vue-json-view",
+  "homepage": "https://guochengfeng.github.io/vue-view-json",
   "keywords": [
     "vue",
     "json",
@@ -17,16 +17,16 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/guochengfeng/vue-json-view/issues"
+    "url": "https://github.com/guochengfeng/vue-view-json/issues"
   },
   "type": "module",
   "files": ["dist"],
-  "main": "./dist/vue-json-view.umd.js",
-  "module": "./dist/vue-json-view.mjs",
+  "main": "./dist/vue-view-json.umd.js",
+  "module": "./dist/vue-view-json.mjs",
   "exports": {
     ".": {
-      "import": "./dist/vue-json-view.umd.js",
-      "require": "./dist/vue-json-view.mjs"
+      "import": "./dist/vue-view-json.umd.js",
+      "require": "./dist/vue-view-json.mjs"
     }
   },
   "scripts": {
