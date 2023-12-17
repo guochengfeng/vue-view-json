@@ -1,5 +1,5 @@
 import type { Plugin } from 'vue';
-import VueJsonView from './components/TreeWrap/TreeWrap';
+import VueViewJson from './components/TreeWrap/TreeWrap';
 
-export default VueJsonView as typeof VueJsonView & Plugin;
+export default VueViewJson as typeof VueViewJson & Plugin;
 

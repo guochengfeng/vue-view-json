@@ -1,7 +1,7 @@
 import { computed, defineComponent, reactive, watchEffect, type PropType } from 'vue'
 import { isArray, isObject, getType } from '@/utils/utils'
-import IconMinus from '@/components/Icons/IconMinus'
-import IconPlus from '@/components/Icons/IconPlus'
+import IconMinus from '@/components/CommonIcon/IconMinus'
+import IconPlus from '@/components/CommonIcon/IconPlus'
 import './styles.less'
 
 export interface NodeDataType {

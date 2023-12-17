@@ -51,11 +51,11 @@ $ yarn add vue-view-json
 </template>
 
 <script>
-import VueJsonView from 'vue-view-json';
+import VueViewJson from 'vue-view-json';
 
 export default {
   components: {
-    VueJsonView,
+    VueViewJson,
   },
 };
 </script>
