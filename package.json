@@ -21,12 +21,12 @@
   },
   "type": "module",
   "files": ["dist"],
-  "main": "./dist/vue-view-json.umd.js",
-  "module": "./dist/vue-view-json.mjs",
+  "main": "./dist/vue-view-json.umd.cjs",
+  "module": "./dist/vue-view-json.js",
   "exports": {
     ".": {
-      "import": "./dist/vue-view-json.umd.js",
-      "require": "./dist/vue-view-json.mjs"
+      "import": "./dist/vue-view-json.umd.cjs",
+      "require": "./dist/vue-view-json.js"
     }
   },
   "scripts": {

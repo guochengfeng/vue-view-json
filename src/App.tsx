@@ -1,12 +1,12 @@
 import { defineComponent } from "vue";
-import VueJsonView from './index';
+import VueViewJson from './index';
 import json from './assets/json.json';
 
 export default defineComponent({
   render() {
     return (
       <main>
-        <VueJsonView 
+        <VueViewJson 
           json={json}
         />
       </main>
