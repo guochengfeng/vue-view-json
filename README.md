@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://github.com/guochengfeng/vue-json-view.git">
+  <a href="https://github.com/guochengfeng/vue-view-json.git">
     <img width="200" src="./src/assets/logo.svg">
   </a>
 </p>
 
 <h1 align="center">
-  <a href="https://github.com/guochengfeng/vue-json-view.git" target="_blank">Vue Json View</a>
+  <a href="https://github.com/guochengfeng/vue-view-json.git" target="_blank">Vue Json View</a>
 </h1>
 
 <div align="center">
@@ -13,16 +13,16 @@
 <p>A Vue component for rendering JSON data as a tree structure.</p>
 <p>It supports Vue3 at least.</p>
 
-[![Build Status](https://travis-ci.org/guochengfeng/vue-json-view.svg?branch=master)](https://travis-ci.org/guochengfeng/vue-json-view)
-[![npm package](https://img.shields.io/npm/v/vue-json-view.svg)](https://www.npmjs.org/package/vue-json-view)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/guochengfeng/vue-json-view/blob/master/LICENSE)
-[![Sizes](https://img.shields.io/bundlephobia/min/vue-json-view)](https://bundlephobia.com/result?p=vue-json-view)
-[![NPM downloads](http://img.shields.io/npm/dm/vue-json-view.svg?style=flat-square)](https://www.npmtrends.com/vue-json-view)
-[![Issues](https://img.shields.io/github/issues-raw/guochengfeng/vue-json-view)](https://github.com/guochengfeng/vue-json-view/issues)
+[![Build Status](https://travis-ci.org/guochengfeng/vue-view-json.svg?branch=master)](https://travis-ci.org/guochengfeng/vue-view-json)
+[![npm package](https://img.shields.io/npm/v/vue-view-json.svg)](https://www.npmjs.org/package/vue-view-json)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/guochengfeng/vue-view-json/blob/master/LICENSE)
+[![Sizes](https://img.shields.io/bundlephobia/min/vue-view-json)](https://bundlephobia.com/result?p=vue-view-json)
+[![NPM downloads](http://img.shields.io/npm/dm/vue-view-json.svg?style=flat-square)](https://www.npmtrends.com/vue-view-json)
+[![Issues](https://img.shields.io/github/issues-raw/guochengfeng/vue-view-json)](https://github.com/guochengfeng/vue-view-json/issues)
 
 </div>
 
-[![](./src/assets/Snipaste.png)](https://github.com/guochengfeng/vue-json-view.git)
+[![](./src/assets/Snipaste.png)](https://github.com/guochengfeng/vue-view-json.git)
 
 English | [简体中文](./README.zh_CN.md)
 
@@ -34,11 +34,11 @@ English | [简体中文](./README.zh_CN.md)
 ## Using NPM or Yarn
 
 ```bash
-$ npm install vue-json-view --save
+$ npm install vue-view-json --save
 ```
 
 ```bash
-$ yarn add vue-json-view
+$ yarn add vue-view-json
 ```
 
 ## Usage
@@ -46,12 +46,12 @@ $ yarn add vue-json-view
 ```vue
 <template>
   <div>
-    <vue-json-view :json="{ key: 'value' }" />
+    <vue-view-json :json="{ key: 'value' }" />
   </div>
 </template>
 
 <script>
-import VueJsonView from 'vue-json-view';
+import VueJsonView from 'vue-view-json';
 
 export default {
   components: {
@@ -85,6 +85,6 @@ export default {
 
 ## Contributors
 
-<a href="https://github.com/guochengfeng/vue-json-view/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=guochengfeng/vue-json-view" />
+<a href="https://github.com/guochengfeng/vue-view-json/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=guochengfeng/vue-view-json" />
 </a>
