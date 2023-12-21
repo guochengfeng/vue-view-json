@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/guochengfeng/vue-view-json.git">
-    <img width="200" src="./src/assets/logo.svg">
+    <h3>vue-view-json</h3>
   </a>
 </p>
 

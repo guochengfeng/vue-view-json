@@ -1,6 +1,6 @@
 {
   "name": "vue-view-json",
-  "version": "0.1.0",
+  "version": "0.1.5",
   "description": "A Vue component for rendering JSON data as a tree structure.",
   "author": "guochengfeng <1065102410@qq.com>",
   "repository": {
