@@ -1,11 +1,6 @@
-<p align="center">
-  <a href="https://github.com/guochengfeng/vue-view-json.git">
-    <h3>vue-view-json</h3>
-  </a>
-</p>
 
 <h1 align="center">
-  <a href="https://github.com/guochengfeng/vue-view-json.git" target="_blank">Vue Json View</a>
+  <a href="https://github.com/guochengfeng/vue-view-json.git" target="_blank">Vue View Json</a>
 </h1>
 
 <div align="center">
