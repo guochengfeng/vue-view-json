@@ -1,3 +1,4 @@
+export default  `
 {
   "booleanTrue": true,
   "booleanFalse": false,
@@ -39,3 +40,4 @@
     }
   }
 }
+`
